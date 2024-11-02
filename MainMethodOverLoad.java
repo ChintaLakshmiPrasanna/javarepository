@@ -12,5 +12,7 @@ class MainMethodOverLoad
 	{
 		main(10,20);
 		main(4,3.8);
+		main(5,4.8);
+
 	}
 }
